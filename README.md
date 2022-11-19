@@ -94,9 +94,9 @@ npm i //下载依赖
 npm run dev //启动项目
 ```
 
-![](Vue3+Ts+Vite+Pinia组合的高效开发套件/image-20221119091852577.png)
+![](./src/image/image-20221119091852577.png)
 
-![](Vue3+Ts+Vite+Pinia组合的高效开发套件/image-20221119101610847.png)
+![](./src/image/image-20221119101610847.png)
 
 ### 四、集成pinia
 
@@ -106,7 +106,7 @@ npm install pinia //安装pinia
 
 pinia简单使用
 
-![](Vue3+Ts+Vite+Pinia组合的高效开发套件/image-20221119150910678.png)
+![](./src/image/image-20221119150910678.png)
 
 1.在main.ts中注册pinia
 
@@ -192,7 +192,7 @@ user.getList();
 
 ```
 
-![](Vue3+Ts+Vite+Pinia组合的高效开发套件/image-20221119151532682.png)
+![](./src/image/image-20221119151532682.png)
 
 ### 五、集成pretter和eslint
 
